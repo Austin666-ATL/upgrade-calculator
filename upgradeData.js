@@ -119,7 +119,7 @@ const upgradeData = {
     { food: 333648650, oil: 333648650, steel: 93421590, minerals: 53383750, uranium: 377680, requirement: "Depot Lv.36, City Wall Lv.36" },
     { food: 353579490, oil: 353579490, steel: 99002220, minerals: 56572680, uranium: 401260, requirement: "Embassy Lv.37, City Wall Lv.37" },
     { food: 353614840, oil: 353614840, steel: 99012120, minerals: 56578330, uranium: 438980, requirement: "Hospital Lv.38, City Wall Lv.38" },
-    { food: 353650200, oil: 353650200, steel: 99022020, minerals: 56583980, uranium: 483830, requirement: "Garage Lv.39, City Wall Lv.39" },
+    { food: 353650200, oil: 353650200, steel: 99022020, minerals: 56583980, uranium: 483830, requirement: "Main Hall Lv.40" },
     { food: 353685560, oil: 353685560, steel: 99031920, minerals: 56589630, uranium: 529660, requirement: "Embassy Lv.40, City Wall Lv.40" },
     { food: 0, oil: 0, steel: 0, minerals: 0, uranium: 0, requirement: "City Wall Lv.41" }
   ]
