@@ -1,7 +1,7 @@
 const upgradeData = {
   "Academy": [
     {},
-    { food: 0, oil: 0, steel: 0, minerals: 0, uranium: 0, requirement: "Main Hall Lv.1" },
+    { food: 0, oil: 0, steel: 0, minerals: 0, uranium: 0, requirement: "" },
     { food: 0, oil: 650, steel: 0, minerals: 0, uranium: 0, requirement: "Main Hall Lv.4" },
     { food: 0, oil: 1050, steel: 0, minerals: 0, uranium: 0, requirement: "Main Hall Lv.4" },
     { food: 0, oil: 1650, steel: 0, minerals: 0, uranium: 0, requirement: "Main Hall Lv.4" },
@@ -26,16 +26,16 @@ const upgradeData = {
     { food: 0, oil: 2774200, steel: 554840, minerals: 237780, uranium: 0, requirement: "Main Hall Lv.23" },
     { food: 3500000, oil: 700000, steel: 300000, minerals: 150000, uranium: 0, requirement: "Main Hall Lv.24" },
     { food: 4500000, oil: 900000, steel: 500000, minerals: 250000, uranium: 0, requirement: "Main Hall Lv.25" },
-    { food: 5531490, oil: 1106290, steel: 737530, minerals: 0, uranium: 0, requirement: "Main Hall Lv.26" },
-    { food: 7324290, oil: 1464850, steel: 976570, minerals: 0, uranium: 0, requirement: "Main Hall Lv.27" },
-    { food: 9521550, oil: 1904310, steel: 1269540, minerals: 0, uranium: 0, requirement: "Main Hall Lv.28" },
-    { food: 12377880, oil: 2475570, steel: 1650380, minerals: 0, uranium: 0, requirement: "Main Hall Lv.29" },
-    { food: 16091190, oil: 3218230, steel: 2145490, minerals: 0, uranium: 0, requirement: "Main Hall Lv.30" }
+    { food: 0, oil: 5531490, steel: 1106290, minerals: 737530, uranium: 0, requirement: "Main Hall Lv.26" },
+    { food: 0, oil: 7324290, steel: 1464850, minerals: 976570, uranium: 0, requirement: "Main Hall Lv.27" },
+    { food: 0, oil: 9521550, steel: 1904310, minerals: 1269540, uranium: 0, requirement: "Main Hall Lv.28" },
+    { food: 0, oil: 12377880, steel: 2475570, minerals: 1650380, uranium: 0, requirement: "Main Hall Lv.29" },
+    { food: 0, oil: 16091190, steel: 3218230, minerals: 2145490, uranium: 0, requirement: "Main Hall Lv.30" }
   ]
   ,
   "Camp": [
     {},
-    { food: 0, oil: 0, steel: 0, minerals: 0, uranium: 0, requirement: "Main Hall Lv.1" },
+    { food: 0, oil: 0, steel: 0, minerals: 0, uranium: 0, requirement: "" },
     { food: 670, oil: 450, steel: 0, minerals: 0, uranium: 0, requirement: "Main Hall Lv.2" },
     { food: 980, oil: 650, steel: 0, minerals: 0, uranium: 0, requirement: "Main Hall Lv.3" },
     { food: 1660, oil: 1100, steel: 0, minerals: 0, uranium: 0, requirement: "Main Hall Lv.4" },
